@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471644722946",
+    "project_id": "kishan-b4b6e",
+    "storage_bucket": "kishan-b4b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471644722946:android:36095393f4bb1db4f3d41b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQN0SK7pTxgp1y4uGzOY4MIZcawCh6iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471644722946:android:1714c13499cbf67cf3d41b",
+        "android_client_info": {
+          "package_name": "com.example.product_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQN0SK7pTxgp1y4uGzOY4MIZcawCh6iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
